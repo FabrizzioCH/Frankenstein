@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cabeza con casco de acero
+=======
+Cabeza mormal...con ojos de rayo laser
+>>>>>>> laser
